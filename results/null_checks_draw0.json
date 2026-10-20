@@ -1,0 +1,82 @@
+{
+ "v783/N1_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": false,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 1.0,
+  "self_loops": 0,
+  "repeated_pairs": 0,
+  "type_block_counts_same": true,
+  "boundary_edges_same": true,
+  "edges": 15091902,
+  "wiring_sha256": "e396bf02bc42cb54ae41a12f20218a120a39467ebd5904c099df5f14d7a04d4f"
+ },
+ "v783/N2_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": true,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 0.0061010865297164004,
+  "self_loops": 314,
+  "repeated_pairs": 57442,
+  "type_block_counts_same": false,
+  "boundary_edges_same": false,
+  "edges": 15091902,
+  "wiring_sha256": "a02497918448ca8cad33f96822837da7fe1dd20df33cf6611a6204fa56e8e581"
+ },
+ "v783/N3_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": true,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 0.3458008142379933,
+  "self_loops": 7972,
+  "repeated_pairs": 479919,
+  "type_block_counts_same": true,
+  "boundary_edges_same": false,
+  "edges": 15091902,
+  "wiring_sha256": "d0ce443fe4de9a19c8c7e493525dbc1fb6839598b85e11e74787bf570b4f57e2"
+ },
+ "v783/N4_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": true,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 0.0482276521541155,
+  "self_loops": 286,
+  "repeated_pairs": 57304,
+  "type_block_counts_same": false,
+  "boundary_edges_same": true,
+  "edges": 15091902,
+  "wiring_sha256": "bff29d23ad92908d800e35b263e63cef682ef97f67e55899acd874e9f95ee067"
+ },
+ "v630/N1_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": false,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 1.0,
+  "self_loops": 0,
+  "repeated_pairs": 0,
+  "edges": 14687178,
+  "wiring_sha256": "fdc6081375ca55394e6a157f0473b15baa341b2683424ae124748a027d56f5a9"
+ },
+ "v630/N2_00": {
+  "out_degree_same": true,
+  "in_degree_same": true,
+  "out_strength_same": true,
+  "in_strength_same": false,
+  "weight_multiset_same": true,
+  "pairs_retained": 0.006177973740088123,
+  "self_loops": 299,
+  "repeated_pairs": 57116,
+  "edges": 14687178,
+  "wiring_sha256": "dfc938f3f8e55e17cf9ecaac049782727363fcf1c7a9392e741dc9014e545f5c"
+ }
+}

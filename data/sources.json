@@ -1,0 +1,98 @@
+{
+ "note": "Every input file, pinned by URL and checked by SHA-256. scripts/fetch_data.py downloads the first group; scripts/build_v783.py downloads the v783 sources and builds data/v783/fafb783-connectome.npz.",
+ "files": [
+  {
+   "file": "data/shiu2024-repo/sez_neurons.pickle",
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/sez_neurons.pickle",
+   "bytes": 5114,
+   "sha256": "2bc5a2a8289924f2de39a8e68bdc07025cb6d6c6c6ddc83a973c0cace7cec2ce",
+   "source": "Shiu et al. 2024, Drosophila_brain_model repository, commit 91bdd1e7 (code MIT; FlyWire-derived data CC BY-NC 4.0)",
+   "needed_for": "screen cell types (both versions)"
+  },
+  {
+   "file": "data/shiu2024-repo/2023_03_23_completeness_630_final.csv",
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/2023_03_23_completeness_630_final.csv",
+   "bytes": 3057611,
+   "sha256": "e6b71e17671a9bdb05f55e4bc6774640a1418cb7a05125e0fc994ad40f9bfdfb",
+   "source": "Shiu et al. 2024, Drosophila_brain_model repository, commit 91bdd1e7 (code MIT; FlyWire-derived data CC BY-NC 4.0)",
+   "needed_for": "v630 wiring"
+  },
+  {
+   "file": "data/shiu2024-repo/2023_03_23_connectivity_630_final.parquet",
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/2023_03_23_connectivity_630_final.parquet",
+   "bytes": 86630944,
+   "sha256": "94db8c650533bc36ffa3223f2e62325d5648b8d6bd31c3a4e1c804628c7557b3",
+   "source": "Shiu et al. 2024, Drosophila_brain_model repository, commit 91bdd1e7 (code MIT; FlyWire-derived data CC BY-NC 4.0)",
+   "needed_for": "v630 wiring"
+  },
+  {
+   "file": "data/shiu2024-supplement/41586_2024_7763_MOESM2_ESM.xlsx",
+   "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07763-9/MediaObjects/41586_2024_7763_MOESM2_ESM.xlsx",
+   "bytes": 2539037,
+   "sha256": "6922e16825aa0c92a28e2a634b073dcad7641e9c9283c4b9d8ee1e34e6d9b8d9",
+   "source": "Shiu et al. 2024, Nature 634:210-219, Supplementary Tables 1-12 (open access, CC BY 4.0)",
+   "needed_for": "optional: rebuilding data/derived/targets.csv and recounting the published accuracy",
+   "optional": true
+  },
+  {
+   "file": "data/shiu2024-repo/figures.ipynb",
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/figures.ipynb",
+   "bytes": 33229,
+   "sha256": "33cd73c0b4b4a291c51b7bab639c4fa28978e49e111ff0d6adbca5687addb84c",
+   "source": "Shiu et al. 2024, Drosophila_brain_model repository, commit 91bdd1e7 (MIT)",
+   "needed_for": "optional: the original Brian2 model and figure notebook that code/lif.py and code/inputs.py follow",
+   "optional": true
+  },
+  {
+   "file": "data/shiu2024-repo/model.py",
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/model.py",
+   "bytes": 11900,
+   "sha256": "fc45837d7122c6ce2a7f3f2f23c515992e4b232aadb919efabb72337fac88e4e",
+   "source": "Shiu et al. 2024, Drosophila_brain_model repository, commit 91bdd1e7 (MIT)",
+   "needed_for": "optional: the original Brian2 model and figure notebook that code/lif.py and code/inputs.py follow",
+   "optional": true
+  }
+ ],
+ "v783": {
+  "metadata": {
+   "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/fafb_783/fafb_783_meta.feather?generation=1787944265562460",
+   "provider": "Bates/Lee lab compiled connectome data (github.com/sjcabs/fly_connectome_data_tutorial)",
+   "documentation": "https://github.com/sjcabs/fly_connectome_data_tutorial/blob/main/data/dataset_documentation/fafb_data.md",
+   "gcs_generation": "1787944265562460",
+   "license": "CC BY-NC 4.0 (FlyWire public-release terms): non-commercial use only; the compilation's code is MIT",
+   "content": "Per-neuron cell type, super class, side and predicted neurotransmitter",
+   "bytes": 13539866,
+   "sha256": "5e248762d5308bf31e77b0ec5a6acd91ad11a22213b8cd985229c5917acd1823",
+   "rows": 144837,
+   "file": "data/downloads/fafb_783_meta.feather"
+  },
+  "connectivity": {
+   "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/61555bc764aebab90e37a56fa1f312269fa4dde1/Connectivity_783.parquet",
+   "provider": "github.com/philshiu/Drosophila_brain_model",
+   "git_commit": "61555bc764aebab90e37a56fa1f312269fa4dde1",
+   "git_blob_sha1": "d386555d1a5f40ebfa1380bcb05b1fab044855fd",
+   "upstream_bytes": 100804642,
+   "license": "CC BY-NC 4.0 (FlyWire public-release terms): non-commercial use only; the repository's code is MIT",
+   "content": "Synapse counts for every connected neuron pair; Shiu et al.'s own excitatory/inhibitory sign",
+   "columns": [
+    "Presynaptic_ID",
+    "Postsynaptic_ID",
+    "Connectivity",
+    "Excitatory"
+   ],
+   "download": "Parquet footer plus the column chunks of the listed columns, by HTTP range requests",
+   "bytes": 47365136,
+   "sha256": "95bbc483f09c664750bb46cca240bdede9727bb76cc88937b4d2768ccdafbec0",
+   "ranges": 61,
+   "rows": 15091983,
+   "row_groups": 15,
+   "hash_scope": "SHA-256 of the downloaded byte ranges (footer and listed column chunks) in file order",
+   "file": "data/downloads/Connectivity_783.parquet.ranges"
+  },
+  "output": {
+   "file": "data/v783/fafb783-connectome.npz",
+   "neurons": 144837,
+   "connections": 15091902
+  }
+ }
+}

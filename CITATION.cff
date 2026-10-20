@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the preprint (link to be added when it is posted) and this repository."
+title: "Cell-type wiring carries most of a whole-brain Drosophila model's accuracy: code and results"
+abstract: "Shiu et al.'s whole-brain leaky integrate-and-fire model of Drosophila, run on the measured FlyWire v783 wiring and on 100 draws from each of four graded null-wiring families, and scored on the 164 experimental outcomes it was tested against."
+authors:
+  - family-names: Jeevash
+    given-names: Richard
+    orcid: "https://orcid.org/0009-0005-7812-0939"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/Jeevash23/connectomics-fly-whole-brain-nulls"
+keywords:
+  - connectomics
+  - Drosophila
+  - FlyWire
+  - null models
+  - spiking network model

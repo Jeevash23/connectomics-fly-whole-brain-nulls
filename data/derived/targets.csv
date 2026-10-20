@@ -1,0 +1,165 @@
+item,category,subject,truth,shiu_pred,note
+1C:sugarR_contra_gt_ipsi,1C,sugarR_contra_gt_ipsi,1,1,
+1C:sugarL_contra_gt_ipsi,1C,sugarL_contra_gt_ipsi,1,1,
+1D:Zorro,1D,Zorro,1,1,
+1D:G2N-1,1D,G2N-1,1,1,
+1D:Rattle,1D,Rattle,1,1,
+1D:Clavicle,1D,Clavicle,1,1,
+1D:FMIn,1D,FMIn,1,1,
+1D:Roundup,1D,Roundup,1,1,
+1D:Phantom,1D,Phantom,1,1,
+1D:MN6,1D,MN6,1,1,
+1D:MN9,1D,MN9,1,1,
+1D:Bract,1D,Bract,1,1,
+1D:Fdg,1D,Fdg,1,1,
+1D:Fudog,1D,Fudog,1,1,
+1D:Usnea,1D,Usnea,0,1,
+1D:TH-VUM,1D,TH-VUM,0,1,
+1F:Bract,1F,Bract,0,0,published ratio 1.087
+1F:Clavicle,1F,Clavicle,1,1,published ratio 0.664
+1F:Fdg,1F,Fdg,0,0,published ratio 0.854
+1F:FMIn,1F,FMIn,1,0,published ratio 1.314
+1F:G2N-1,1F,G2N-1,1,1,published ratio 0.619
+1F:Phantom,1F,Phantom,0,0,published ratio 1.082
+1F:Rattle,1F,Rattle,1,0,published ratio 0.864
+1F:Roundup,1F,Roundup,0,1,published ratio 0.667
+1F:Usnea,1F,Usnea,1,0,published ratio 1.230
+1F:Zorro,1F,Zorro,1,1,published ratio 0.772
+2A:roundup,2A,roundup,1,1,activation rate 1; published MN9 79.500 Hz
+2A:diatom,2A,diatom,1,1,activation rate 0.6; published MN9 29.133 Hz
+2A:sink_sync,2A,sink_sync,1,1,activation rate 0.2; published MN9 22.167 Hz
+2A:G2N_1,2A,G2N_1,1,1,activation rate 1; published MN9 12.367 Hz
+2A:clavicle,2A,clavicle,1,1,activation rate 0.5; published MN9 10.500 Hz
+2A:Fdg,2A,Fdg,1,1,activation rate 0.8; published MN9 22.533 Hz
+2A:bract,2A,bract,1,1,activation rate 0.8; published MN9 33.667 Hz
+2A:vice,2A,vice,0,0,activation rate 0; published MN9 0.000 Hz
+2A:rattle,2A,rattle,1,1,activation rate 0.9; published MN9 1.867 Hz
+2A:FMIn,2A,FMIn,1,1,activation rate 1; published MN9 0.367 Hz
+2A:TH_VUM,2A,TH_VUM,1,1,activation rate 1; published MN9 0.033 Hz
+2A:aster,2A,aster,0,0,activation rate 0; published MN9 0.000 Hz
+2A:seagull,2A,seagull,0,0,activation rate 0; published MN9 0.000 Hz
+2A:mist,2A,mist,0,0,activation rate 0; published MN9 0.000 Hz
+2A:kitty,2A,kitty,0,1,activation rate 0; published MN9 7.300 Hz
+2A:fudog,2A,fudog,0,0,activation rate 0; published MN9 0.000 Hz
+2A:aDT6,2A,aDT6,0,0,activation rate 0; published MN9 0.000 Hz
+2A:aSG1,2A,aSG1,0,0,activation rate 0; published MN9 0.000 Hz
+2A:aSG7,2A,aSG7,0,0,activation rate 0; published MN9 0.000 Hz
+2A:amulet,2A,amulet,0,0,activation rate 0; published MN9 0.000 Hz
+2A:asteroid,2A,asteroid,0,0,activation rate 0; published MN9 0.000 Hz
+2A:bamboo,2A,bamboo,0,0,activation rate 0; published MN9 0.000 Hz
+2A:basket,2A,basket,0,0,activation rate 0; published MN9 0.000 Hz
+2A:bluebell,2A,bluebell,0,0,activation rate 0; published MN9 0.000 Hz
+2A:bobber,2A,bobber,0,0,activation rate 0; published MN9 0.000 Hz
+2A:box,2A,box,0,0,activation rate 0; published MN9 0.000 Hz
+2A:bridle,2A,bridle,0,0,activation rate 0; published MN9 0.000 Hz
+2A:brontosaraus,2A,brontosaraus,0,0,activation rate 0; published MN9 0.000 Hz
+2A:broom,2A,broom,0,0,activation rate 0; published MN9 0.000 Hz
+2A:buddy,2A,buddy,0,0,activation rate 0; published MN9 0.000 Hz
+2A:coy,2A,coy,0,0,activation rate 0; published MN9 0.000 Hz
+2A:crab,2A,crab,0,0,activation rate 0; published MN9 0.000 Hz
+2A:cradle,2A,cradle,0,0,activation rate 0; published MN9 0.000 Hz
+2A:damsel,2A,damsel,0,0,activation rate 0; published MN9 0.000 Hz
+2A:doublescoop,2A,doublescoop,0,0,activation rate 0; published MN9 0.000 Hz
+2A:earmuff,2A,earmuff,0,0,activation rate 0; published MN9 0.000 Hz
+2A:eiffel,2A,eiffel,0,0,activation rate 0; published MN9 0.000 Hz
+2A:fluff,2A,fluff,0,0,activation rate 0; published MN9 0.000 Hz
+2A:foxglove,2A,foxglove,0,0,activation rate 0; published MN9 0.000 Hz
+2A:gallinule,2A,gallinule,0,0,activation rate 0; published MN9 0.000 Hz
+2A:gazebo,2A,gazebo,0,0,activation rate 0; published MN9 0.000 Hz
+2A:genie,2A,genie,0,0,activation rate 0; published MN9 0.000 Hz
+2A:gnome,2A,gnome,0,0,activation rate 0; published MN9 0.000 Hz
+2A:good_dog,2A,good_dog,0,0,activation rate 0; published MN9 0.000 Hz
+2A:gumdrop,2A,gumdrop,0,0,activation rate 0; published MN9 0.000 Hz
+2A:handle,2A,handle,0,0,activation rate 0; published MN9 0.000 Hz
+2A:handup,2A,handup,0,0,activation rate 0; published MN9 0.000 Hz
+2A:haystack,2A,haystack,0,0,activation rate 0; published MN9 0.000 Hz
+2A:horn,2A,horn,0,0,activation rate 0; published MN9 0.000 Hz
+2A:horntail,2A,horntail,0,0,activation rate 0; published MN9 0.000 Hz
+2A:horseshoe,2A,horseshoe,0,0,activation rate 0; published MN9 0.000 Hz
+2A:hound,2A,hound,0,0,activation rate 0; published MN9 0.000 Hz
+2A:hyacinth,2A,hyacinth,0,0,activation rate 0; published MN9 0.000 Hz
+2A:justice,2A,justice,0,0,activation rate 0; published MN9 0.000 Hz
+2A:kelp,2A,kelp,0,0,activation rate 0; published MN9 0.000 Hz
+2A:knees,2A,knees,0,0,activation rate 0; published MN9 0.000 Hz
+2A:kokopelli,2A,kokopelli,0,0,activation rate 0; published MN9 0.000 Hz
+2A:landslide,2A,landslide,0,0,activation rate 0; published MN9 0.000 Hz
+2A:lion,2A,lion,0,0,activation rate 0; published MN9 0.000 Hz
+2A:mandala,2A,mandala,0,0,activation rate 0; published MN9 0.000 Hz
+2A:marge,2A,marge,1,0,activation rate 0.1; published MN9 0.000 Hz
+2A:meteor,2A,meteor,0,0,activation rate 0; published MN9 0.000 Hz
+2A:mime,2A,mime,0,0,activation rate 0; published MN9 0.000 Hz
+2A:moor,2A,moor,0,0,activation rate 0; published MN9 0.000 Hz
+2A:mothership,2A,mothership,0,0,activation rate 0; published MN9 0.000 Hz
+2A:mute,2A,mute,0,0,activation rate 0; published MN9 0.000 Hz
+2A:nagini,2A,nagini,0,0,activation rate 0; published MN9 0.000 Hz
+2A:nori,2A,nori,0,0,activation rate 0; published MN9 0.000 Hz
+2A:oink,2A,oink,0,0,activation rate 0; published MN9 0.000 Hz
+2A:OinkT,2A,OinkT,0,0,activation rate 0; published MN9 0.000 Hz
+2A:oval,2A,oval,0,0,activation rate 0; published MN9 0.000 Hz
+2A:pSG1,2A,pSG1,0,0,activation rate 0; published MN9 0.000 Hz
+2A:peacock,2A,peacock,0,0,activation rate 0; published MN9 0.000 Hz
+2A:peafowl,2A,peafowl,0,0,activation rate 0; published MN9 0.000 Hz
+2A:peahen,2A,peahen,0,0,activation rate 0; published MN9 0.000 Hz
+2A:phantom,2A,phantom,1,0,activation rate 0.6; published MN9 0.000 Hz
+2A:planter,2A,planter,0,0,activation rate 0; published MN9 0.000 Hz
+2A:pleco,2A,pleco,0,0,activation rate 0; published MN9 0.000 Hz
+2A:pringle,2A,pringle,0,0,activation rate 0; published MN9 0.000 Hz
+2A:puddle,2A,puddle,0,0,activation rate 0; published MN9 0.000 Hz
+2A:rocket,2A,rocket,0,0,activation rate 0; published MN9 0.000 Hz
+2A:rose,2A,rose,0,0,activation rate 0; published MN9 0.000 Hz
+2A:ruby,2A,ruby,0,0,activation rate 0; published MN9 0.000 Hz
+2A:Salivary_MN13,2A,Salivary_MN13,0,0,activation rate 0; published MN9 0.000 Hz
+2A:shark,2A,shark,0,0,activation rate 0; published MN9 0.000 Hz
+2A:snake,2A,snake,0,0,activation rate 0; published MN9 0.000 Hz
+2A:spirit,2A,spirit,0,0,activation rate 0; published MN9 0.000 Hz
+2A:spray,2A,spray,0,0,activation rate 0; published MN9 0.000 Hz
+2A:sullivan,2A,sullivan,0,0,activation rate 0; published MN9 0.000 Hz
+2A:sundrop,2A,sundrop,0,0,activation rate 0; published MN9 0.000 Hz
+2A:tentacular,2A,tentacular,1,0,activation rate 0.5; published MN9 0.000 Hz
+2A:tinctoria,2A,tinctoria,0,0,activation rate 0; published MN9 0.000 Hz
+2A:tophat,2A,tophat,0,0,activation rate 0; published MN9 0.000 Hz
+2A:TPN4,2A,TPN4,0,0,activation rate 0; published MN9 0.000 Hz
+2A:trident,2A,trident,0,0,activation rate 0; published MN9 0.000 Hz
+2A:trogon,2A,trogon,0,0,activation rate 0; published MN9 0.000 Hz
+2A:trumpet,2A,trumpet,0,0,activation rate 0; published MN9 0.000 Hz
+2A:tulip,2A,tulip,0,0,activation rate 0; published MN9 0.000 Hz
+2A:tundra,2A,tundra,0,0,activation rate 0; published MN9 0.000 Hz
+2A:turner,2A,turner,0,0,activation rate 0; published MN9 0.000 Hz
+2A:twirl,2A,twirl,0,0,activation rate 0; published MN9 0.000 Hz
+2A:usnea,2A,usnea,1,0,activation rate 1; published MN9 0.000 Hz
+2A:wafflecone,2A,wafflecone,0,0,activation rate 0; published MN9 0.000 Hz
+2A:weaver,2A,weaver,0,0,activation rate 0; published MN9 0.000 Hz
+2A:web,2A,web,0,0,activation rate 0; published MN9 0.000 Hz
+2A:whisker,2A,whisker,0,0,activation rate 0; published MN9 0.000 Hz
+3BC:bitter_weak_sugar,3BC,bitter_weak_sugar,1,1,
+3BC:ir94e_weak_sugar,3BC,ir94e_weak_sugar,1,1,
+3BC:bitter_strong_sugar,3BC,bitter_strong_sugar,1,1,
+3BC:ir94e_strong_sugar,3BC,ir94e_strong_sugar,0,0,
+4A:Clavicle,4A,Clavicle,1,1,
+4A:Phantom,4A,Phantom,1,1,
+4A:Rattle,4A,Rattle,1,1,
+4A:Usnea,4A,Usnea,1,1,
+4A:MN6,4A,MN6,1,1,
+4A:MN9,4A,MN9,1,1,
+4A:Zorro,4A,Zorro,1,1,
+4A:Fudog,4A,Fudog,1,1,
+4A:G2N-1,4A,G2N-1,0,1,
+4A:Roundup,4A,Roundup,0,1,
+4C:Bract,4C,Bract,1,1,published ratio 0.555
+4C:Clavicle,4C,Clavicle,1,1,published ratio 0.100
+4C:G2N-1,4C,G2N-1,0,0,published ratio 0.821
+4C:Phantom,4C,Phantom,0,0,published ratio 2.797
+4C:Rattle,4C,Rattle,1,1,published ratio 0.535
+4C:Roundup,4C,Roundup,1,1,published ratio 0.000
+4C:Tophat,4C,Tophat,0,0,published ratio 0.944
+4C:Tulip,4C,Tulip,0,0,published ratio 2.877
+4C:Usnea,4C,Usnea,1,0,published ratio 1.887
+4C:Zorro,4C,Zorro,1,1,published ratio 0.385
+4C:Fudog,4C,Fudog,0,0,published ratio 1.236
+5B:aBN1,5B,aBN1,1,1,
+5B:aDN1,5B,aDN1,1,1,
+5B:aDN2,5B,aDN2,1,1,
+5D:aBN1,5D,aBN1,1,1,
+5D:aBN2,5D,aBN2,1,1,
+5I:aDN1_under_JO-CE,5I,aDN1_under_JO-CE,1,1,
+5I:aDN1_under_JO-F,5I,aDN1_under_JO-F,0,0,

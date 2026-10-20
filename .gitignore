@@ -1,0 +1,15 @@
+# Downloaded and built inputs (scripts/fetch_data.py, scripts/build_v783.py)
+data/shiu2024-repo/
+data/shiu2024-supplement/
+data/downloads/
+data/v783/
+data/derived/shiu2024-sheets/
+# Per-run outputs (results/runs.csv and analysis.json are tracked)
+results/v783/*/
+results/v630/*/
+posthoc/seeds/
+posthoc/n3s/
+logs/
+__pycache__/
+*.part
+.venv/

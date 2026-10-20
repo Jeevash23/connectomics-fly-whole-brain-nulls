@@ -1,0 +1,134 @@
+{
+ "note": "Post hoc seed runs (19 October 2026). Seed set 0 is the published run; seed sets 1-9 shift every experiment's Poisson seed (seeds.py). Same code, wiring, 30 trials and rules.",
+ "measured_v783": {
+  "per_seed_set": {
+   "0": {
+    "all": 0.8789661319073083,
+    "screen": 0.8347902097902098,
+    "non_screen": 0.7261904761904762
+   },
+   "1": {
+    "all": 0.883868092691622,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7261904761904762
+   },
+   "2": {
+    "all": 0.883868092691622,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7261904761904762
+   },
+   "3": {
+    "all": 0.8740641711229946,
+    "screen": 0.8347902097902098,
+    "non_screen": 0.6904761904761905
+   },
+   "4": {
+    "all": 0.8978609625668449,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7738095238095238
+   },
+   "5": {
+    "all": 0.8789661319073083,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.6904761904761905
+   },
+   "6": {
+    "all": 0.8887700534759357,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7619047619047619
+   },
+   "7": {
+    "all": 0.8978609625668449,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7738095238095238
+   },
+   "8": {
+    "all": 0.8978609625668449,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7738095238095238
+   },
+   "9": {
+    "all": 0.8880570409982174,
+    "screen": 0.8404720279720279,
+    "non_screen": 0.7023809523809523
+   }
+  },
+  "mean": 0.8870142602495543,
+  "sd": 0.008654923734440777,
+  "min": 0.8740641711229946,
+  "max": 0.8978609625668449
+ },
+ "n3_draws_0_9": {
+  "per_draw": {
+   "N3_00": {
+    "seed0": 0.8293226381461676,
+    "seed1": 0.8327985739750445,
+    "water_control_fires_seed0": true,
+    "water_control_fires_seed1": true
+   },
+   "N3_01": {
+    "seed0": 0.7803921568627451,
+    "seed1": 0.7894830659536543,
+    "water_control_fires_seed0": false,
+    "water_control_fires_seed1": false
+   },
+   "N3_02": {
+    "seed0": 0.8202317290552585,
+    "seed1": 0.8411764705882353,
+    "water_control_fires_seed0": true,
+    "water_control_fires_seed1": true
+   },
+   "N3_03": {
+    "seed0": 0.8335115864527629,
+    "seed1": 0.8062388591800356,
+    "water_control_fires_seed0": true,
+    "water_control_fires_seed1": true
+   },
+   "N3_04": {
+    "seed0": 0.8293226381461676,
+    "seed1": 0.8293226381461676,
+    "water_control_fires_seed0": false,
+    "water_control_fires_seed1": false
+   },
+   "N3_05": {
+    "seed0": 0.8195187165775402,
+    "seed1": 0.8244206773618539,
+    "water_control_fires_seed0": false,
+    "water_control_fires_seed1": false
+   },
+   "N3_06": {
+    "seed0": 0.8202317290552585,
+    "seed1": 0.8293226381461676,
+    "water_control_fires_seed0": false,
+    "water_control_fires_seed1": false
+   },
+   "N3_07": {
+    "seed0": 0.8222816399286987,
+    "seed1": 0.8320855614973262,
+    "water_control_fires_seed0": true,
+    "water_control_fires_seed1": true
+   },
+   "N3_08": {
+    "seed0": 0.8180926916221034,
+    "seed1": 0.7838680926916222,
+    "water_control_fires_seed0": true,
+    "water_control_fires_seed1": false
+   },
+   "N3_09": {
+    "seed0": 0.7845811051693404,
+    "seed1": 0.7929590017825312,
+    "water_control_fires_seed0": false,
+    "water_control_fires_seed1": false
+   }
+  },
+  "mean_seed0": 0.8157486631016043,
+  "mean_seed1": 0.8161675579322638,
+  "sd_of_seed_differences": 0.017383769343644825,
+  "max_abs_seed_difference": 0.03422459893048124,
+  "water_control_status_changed": 1
+ },
+ "contrast_measured_minus_n3_draws_0_9": {
+  "seed_set_0": 0.063217468805704,
+  "seed_set_1": 0.06770053475935822
+ }
+}
